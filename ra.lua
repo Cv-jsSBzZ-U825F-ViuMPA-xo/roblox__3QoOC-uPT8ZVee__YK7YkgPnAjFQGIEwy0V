@@ -7,7 +7,7 @@ Blacklisted = 'F',
 E = false,
 R = true,
 T = false,
-Y = true
-rob__earlyaccess_lua = true
+Y = true,
+rob__earlyaccess_lua = true,
 hirandomhttprequestloggers = true
 }
