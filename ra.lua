@@ -1,11 +1,11 @@
 tab = {
 WHITELIST = true,
-Exceptnot = false,
+Exceptnot = true,
 B = true,
 Exclude = true,
 Blacklisted = 'F',
 E = false,
-R = true,
+R = false,
 T = false,
 Y = true,
 rob__earlyaccess_lua = true,
