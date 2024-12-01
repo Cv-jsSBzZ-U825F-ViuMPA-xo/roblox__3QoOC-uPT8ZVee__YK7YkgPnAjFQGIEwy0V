@@ -1,4 +1,4 @@
-local tab = {
+tab = {
 WHITELIST = true,
 Exceptnot = false,
 B = true,
