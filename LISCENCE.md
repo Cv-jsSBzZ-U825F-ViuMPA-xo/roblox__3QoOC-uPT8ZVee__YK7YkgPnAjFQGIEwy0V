@@ -1,4 +1,6 @@
 
+
+
 **SOFTWARE LICENSE AGREEMENT**
 
 This Software License Agreement ("Agreement") is entered into on 12/16/24 ("Effective Date")
@@ -13,7 +15,8 @@ including all updates, modifications, and enhancements of the script.
 
 **2. GRANT OF LICENSE**
 
-Licensor grants to Licensee a non-exclusive, non-transferable license to use the Software solely for [SPECIFY PURPOSE, e.g., personal, commercial, etc.].
+Licensor grants to Licensee a non-exclusive, non-transferable license to use the Software solely for personal, commercial, etc..
+The license can be modified at any time.
 
 **3. RESTRICTIONS**
 
