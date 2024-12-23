@@ -1,4 +1,14 @@
 
+> > You are not allowed to:
+> > Distribute the script
+> > Reverse Engineer, Modify the code (Settings unincluded)
+
+> > You are allowed to:
+> > Modify the settings given from each script
+> > Use the script
+
+
+
 
 
 **SOFTWARE LICENSE AGREEMENT**
@@ -7,7 +17,7 @@ This Software License Agreement ("Agreement") is entered into on 12/16/24 ("Effe
 
 **1. DEFINITIONS**
 
-* "script" means the closed source scripts distributed by either the current original owner(s) of the several GitHub accounts listed here.
+* "script" means the closed source and described and meant to be as "Early Access" paid scripts distributed by either the current original owner(s) of the several GitHub accounts listed here.
 https://github.com/Cv-jsSBzZ-U825F-ViuMPA-xo
 https://github.com/Reapvitalized,
 including all updates, modifications, and enhancements of the script.
