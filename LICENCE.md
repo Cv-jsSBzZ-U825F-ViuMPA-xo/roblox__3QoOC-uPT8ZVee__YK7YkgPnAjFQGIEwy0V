@@ -5,12 +5,11 @@
 
 > > You are allowed to:
 > > Modify the settings given from each script
-> > Use the script
-
-
-
-
-
+.
+.
+.
+.
+.
 **SOFTWARE LICENSE AGREEMENT**
 
 This Software License Agreement ("Agreement") is entered into on 12/16/24 ("Effective Date")
