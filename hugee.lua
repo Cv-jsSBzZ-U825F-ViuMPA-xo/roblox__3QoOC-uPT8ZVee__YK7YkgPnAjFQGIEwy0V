@@ -3,7 +3,7 @@ WHITELIST = true,
 Exceptnot = false,
 B = true,
 Exclude = true,
-Blacklisted = {'none'
+Blacklisted = {'30EA90BC-89EE-49A7-8F5D-F840F3971F91'
 },
 E = false,
 R = true,
