@@ -51,4 +51,4 @@ In no event shall Licensor be liable for any damages, including but not limited 
 
 This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or understandings.
 
-By using the this script, Licensee acknowledges that it has read, understands, and agrees to be bound by the terms and conditions of this Agreement.
+By using this script, Licensee acknowledges that it has read, understands, and agrees to be bound by the terms and conditions of this Agreement.
