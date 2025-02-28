@@ -17,6 +17,7 @@ Blacklisted = {'30EA90BC-89EE-49A7-8F5D-F840F3971F91',
 'ef617514-041c-4ac5-955b-c9d6b25c22f3',
 '816d40cc-cc74-4602-8233-9c1ea82856fc',
 },
+Whitelisted = {'twhitelist test 2'}
 E = false,
 R = true,
 BlacklistBans = true,
@@ -24,9 +25,5 @@ ScriptLock = false,
 T = false,
 Y = true,
 rob__earlyaccess_lua = true,
-hirandomhttpreque'089EFB81-13ED-450B-8133-DB7901D86F56',
-'AE60A84E-A383-4EEF-AF74-D8A02C0C3C6A',
-'f91f0668-4a97-4722-8e4f-e54ae8c342cb',
-'ef617514-041c-4ac5-955b-c9d6b25c22f3',
-'816d40cc-cc74-4602-8233-9c1ea82856fc',stloggers = true
+hirandomhttprequestloggers = true
 }
